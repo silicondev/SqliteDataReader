@@ -5,6 +5,10 @@
     <TargetFramework>net6.0-windows</TargetFramework>
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
+    <Title>Sqlite Data Reader</Title>
+    <Authors>silicondev</Authors>
+    <RepositoryUrl>https://github.com/silicondev/SqliteDataReader</RepositoryUrl>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
   </PropertyGroup>
 
   <ItemGroup>
